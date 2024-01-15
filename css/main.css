@@ -1,0 +1,72 @@
+*{
+    
+    box-sizing: border-box;
+    }
+    
+    
+    header{
+    background-color:#5c9ff5;
+    padding-top: 40px;
+    background-image:url(../img/Screenshot\ 2024-01-15\ 143042.png);
+    background-repeat: repeat;
+    background-size: contain;
+    }
+    
+    #logo{
+       width: 150px;
+       margin-bottom: 10px;
+    }
+    
+    body{
+      font-family: 'Roboto Slab', serif;
+    }
+    
+    
+    .autore{
+      color: lightslategray;
+      margin-top: 5px;
+      margin-bottom: 15px;
+    } 
+    
+    #special{
+      color: rgb(48, 205, 223);
+    } 
+    
+    .foto-tim{
+      background-size: 400px;
+    } 
+    
+    figcaption{
+      font-size: .5em;
+      color: black;
+    } 
+    
+    .paragrafo{
+      margin-top: 10px;
+    } 
+    
+    .evidenziatura{
+      background-color: yellow;
+    } 
+
+    table{
+        text-align: left;
+        border-collapse: collapse;
+    }
+    
+    td{
+        height: 50px;
+    }
+    
+    thead{
+        background-color: #77baf5;
+        color: white;
+    }
+    
+    .bg_blue{
+        background-color: #C0E3F0;
+    }
+    
+    .th_tabella{
+        width: 250px;
+    }
