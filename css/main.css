@@ -70,3 +70,22 @@
     .th_tabella{
         width: 250px;
     }
+    h5{
+        font-weight: normal;
+    }
+        
+    .imgtext {
+        position: relative;
+        top: -200px;
+        left: 10px;
+    }
+
+    .immaginecontesto {
+        position: relativo;
+        color: white;
+        text-align: left;
+    }
+
+    #menu {
+      background: url('./img/pattern.png');
+    }
